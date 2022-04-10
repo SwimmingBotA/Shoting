@@ -1,5 +1,6 @@
 # Shoting
-学到了很多
+
+学到了很多 [DEMO](https://github.com/oneputatoT/Shoting/issues/1)
 
 # 较为完整的做了个游戏流程
 
